@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Eletronics Store",
+    "slug": "Eletronics Store",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#FFA500"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.comprasonline"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFA500"
+      },
+      "package": "com.eletronicsstore",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "newArchEnabled": true
+  }
+}
